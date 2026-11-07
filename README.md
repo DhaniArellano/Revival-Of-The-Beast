@@ -1,5 +1,5 @@
 # 🎸 Revival of the Beast
-
+![Texto alternativo de la imagen](rotb.png)
 <p align="center">
   <b>Proyecto open-source de preservación e ingeniería inversa para mantener vivo <i>Iron Maiden: Legacy of the Beast</i>.</b>
 </p>
